@@ -1,0 +1,13 @@
+C:\Users\Workstation\Desktop\VB.Net\Application\Application\bin\Debug\Application.exe.config
+C:\Users\Workstation\Desktop\VB.Net\Application\Application\bin\Debug\Application.exe
+C:\Users\Workstation\Desktop\VB.Net\Application\Application\bin\Debug\Application.pdb
+C:\Users\Workstation\Desktop\VB.Net\Application\Application\bin\Debug\Application.xml
+C:\Users\Workstation\Desktop\VB.Net\Application\Application\obj\Debug\Application.Resources.resources
+C:\Users\Workstation\Desktop\VB.Net\Application\Application\obj\Debug\Application.vbproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\VB.Net\Application\Application\obj\Debug\Application.exe
+C:\Users\Workstation\Desktop\VB.Net\Application\Application\obj\Debug\Application.xml
+C:\Users\Workstation\Desktop\VB.Net\Application\Application\obj\Debug\Application.pdb
+C:\Users\Workstation\Desktop\Seleção! 3\01) DotNet\01) POO\02) VB.Net\Application\Application\bin\Debug\Application.exe.config
+C:\Users\Workstation\Desktop\Seleção! 3\01) DotNet\01) POO\02) VB.Net\Application\Application\obj\Debug\Application.exe
+C:\Users\Workstation\Desktop\Seleção! 3\01) DotNet\01) POO\02) VB.Net\Application\Application\obj\Debug\Application.xml
+C:\Users\Workstation\Desktop\Seleção! 3\01) DotNet\01) POO\02) VB.Net\Application\Application\obj\Debug\Application.pdb
